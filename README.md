@@ -11,4 +11,4 @@ Since version 3.7.0 PROD:
 This repository will no longer update the test version TextMap.  
 Only the PROD version TextMap will be updated.  
 
-If you need to access the test version TextMap for MiHoYo's turn-based animated game, you can visit this [channel](https://t.me/ovotg) for the latest updates. Using the tag ``#HSR``  
+If you need to access the test version TextMap for HoYoVerse's turn-based animated game, you can visit this [channel](https://t.me/ovotg) for the latest updates. Using the tag ``#HSR``  
